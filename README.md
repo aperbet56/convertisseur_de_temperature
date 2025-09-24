@@ -1,5 +1,7 @@
 ## CONVERTISSEUR DE TEMPERATURE
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Ce site permet vous permet de convertir les degrés Celsius en Fahrenheit mais également les Fahrenheit en Celsius.
